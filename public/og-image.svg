@@ -1,0 +1,66 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1e40af"/>
+
+  <rect width="1200" height="630" fill="url(#gradient)"/>
+
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1e40af"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="200" cy="100" r="100" fill="rgba(255, 255, 255, 0.05)"/>
+  <circle cx="1050" cy="500" r="150" fill="rgba(255, 255, 255, 0.05)"/>
+  <circle cx="900" cy="150" r="80" fill="rgba(255, 255, 255, 0.03)"/>
+
+  <rect x="100" y="150" width="1000" height="330" rx="16" fill="rgba(255, 255, 255, 0.1)" stroke="rgba(255, 255, 255, 0.2)" stroke-width="2"/>
+
+  <text x="600" y="250" font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="700" fill="white" text-anchor="middle">
+    Enrichissement de Données
+  </text>
+
+  <text x="600" y="320" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="600" fill="#93c5fd" text-anchor="middle">
+    Entreprises Françaises
+  </text>
+
+  <text x="600" y="400" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="rgba(255, 255, 255, 0.9)" text-anchor="middle">
+    SIREN · SIRET · NAF · Industries · Effectifs · Adresses
+  </text>
+
+  <g transform="translate(450, 440)">
+    <rect width="80" height="50" rx="8" fill="#60a5fa"/>
+    <path d="M30 15L30 35M20 25L40 25" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(550, 440)">
+    <rect width="80" height="50" rx="8" fill="#60a5fa"/>
+    <circle cx="40" cy="25" r="12" stroke="white" stroke-width="3" fill="none"/>
+    <path d="M40 19L40 31M34 25L46 25" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(650, 440)">
+    <rect width="80" height="50" rx="8" fill="#60a5fa"/>
+    <path d="M50 25L35 18L35 32Z" fill="white"/>
+  </g>
+
+  <rect x="250" y="520" width="140" height="40" rx="20" fill="white"/>
+  <text x="320" y="546" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#1e40af" text-anchor="middle">
+    Email → Data
+  </text>
+
+  <rect x="420" y="520" width="160" height="40" rx="20" fill="rgba(255, 255, 255, 0.2)"/>
+  <text x="500" y="546" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="white" text-anchor="middle">
+    Nom → Data
+  </text>
+
+  <rect x="610" y="520" width="140" height="40" rx="20" fill="rgba(255, 255, 255, 0.2)"/>
+  <text x="680" y="546" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="white" text-anchor="middle">
+    Excel → Excel
+  </text>
+
+  <rect x="780" y="520" width="170" height="40" rx="20" fill="rgba(255, 255, 255, 0.2)"/>
+  <text x="865" y="546" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="white" text-anchor="middle">
+    API Gouv.fr
+  </text>
+</svg>
